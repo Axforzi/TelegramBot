@@ -26,12 +26,3 @@ def patched_throttling_plan(js: str):
             transform_steps.append((match[0],match[1]))
 
     return transform_steps
-
-
-# with mock.patch('pytube.cipher.get_throttling_plan', patched_throttling_plan):
-#     from pytube import YouTube
-#     url = 'https://www.youtube.com/watch?v=ZBVrPWwSlRM'
-#
-#     video = YouTube(url)
-#     for stream in video.streams:
-#         print(stream)

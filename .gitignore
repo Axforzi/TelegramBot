@@ -2,4 +2,4 @@ __pycache__
 audios
 telegrambot-env
 .env
-/env
+/env-bot
