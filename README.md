@@ -5,11 +5,11 @@
 
 <h1> Telegram Bot </h1>
 
-<p> Este es bot que cree para facilitar ciertas actividades, por ahora solo posee la busqueda de videos en Youtube, pero tenia planeado colocar un conversor de video a audio
-o incluso algunas herramientas para la edición de imagenes, tal vez las pueda agregar en algun momento</p>
+<p> Este es un bot que cree para facilitar ciertas actividades, por ahora solo posee la busqueda de videos en Youtube, pero tenia planeado colocar un conversor de video a audio
+o incluso algunas herramientas para la edición de imagenes, tal vez las pueda agregar en algun momento.</p>
 
 <h2> Variables de entorno </h2>
-<p> Se debe de colocar la variable  TOKEN_API, que debe contener el token del bot</p>
+<p> Se debe de colocar la variable  TOKEN_API, que debe contener el token del bot.</p>
 
 <h2> Video de muestra </h2>
 
